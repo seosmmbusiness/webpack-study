@@ -4,3 +4,6 @@ The course url [Владилен Минин](https://www.udemy.com/course/javasc
 
 Made some changes to make it work with webpack 5 and React 18
 
+- git clone
+- npm i
+- npm run start 
